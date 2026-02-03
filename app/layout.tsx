@@ -23,6 +23,10 @@ export default function RootLayout({
               <Link href="/">Home</Link> &nbsp;
               <Link href="/students">Students</Link> &nbsp;
               <Link href="/colleges">Colleges</Link> &nbsp;
+              <Link href="/mobiles">Mobiles</Link> &nbsp;
+              <Link href="/faculties">Faculties</Link> &nbsp;
+              <Link href="/facultiesnew">Faculties New</Link> &nbsp;
+              <Link href="/login">Login</Link> &nbsp;
             </div>
           </div>
           <div className="row">
